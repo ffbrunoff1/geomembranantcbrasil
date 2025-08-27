@@ -1,6 +1,6 @@
 import React from 'react'
 import { motion } from 'framer-motion'
-import { Users, Award, Shield, Building, Mountain, Waves, Factory, Truck } from 'lucide-react'
+import { Users, Award, Droplets, Shield, Building, Mountain, Waves, Factory, Truck } from 'lucide-react'
 
 export default function About() {
   const stats = [
