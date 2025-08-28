@@ -53,11 +53,6 @@ export default function Header() {
               alt="Geomembrana NTC Brasil"
               className="h-12 w-auto"
             />
-            <span className={`ml-3 text-xl font-bold transition-colors duration-300 ${
-              isScrolled ? 'text-gray-900' : 'text-white'
-            }`}>
-              NTC Brasil
-            </span>
           </motion.div>
 
           <nav className="hidden lg:flex items-center space-x-8">
