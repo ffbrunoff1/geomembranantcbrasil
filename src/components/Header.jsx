@@ -49,6 +49,7 @@ export default function Header() {
           >
             <img
               src="https://qotdwocbcoirjlqjkjhq.supabase.co/storage/v1/object/imagens.website.creation/ad5c31a2-f045-4f97-a0ab-2d4f0e6a69e7/logo_1756325692404_0.png"
+              className="filter brightness-0 invert"
               alt="Geomembrana NTC Brasil"
               className="h-12 w-auto"
             />
